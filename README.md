@@ -1,5 +1,5 @@
-# Integration-project/n
-#Zachary Mixson
+# Integration-project
+#Zachary Mixson/n
 #Simple tron game
 name = input("What is your name?")
 print("Hello,",name,"welcome to my new game!")
