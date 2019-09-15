@@ -1,4 +1,4 @@
-# Integration-project
+# Integration-project/n
 #Zachary Mixson
 #Simple tron game
 name = input("What is your name?")
